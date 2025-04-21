@@ -597,4 +597,4 @@ Electromechanical PIN Cracking with Robotic Reconfigurable Button Basher (and C3
 https://www.defcon.org/html/defcon-21/dc-21-speakers.html#Engler
 
 DataGenetics PIN analysis https://datagenetics.com/blog/september32012/index.html
-
+ 
